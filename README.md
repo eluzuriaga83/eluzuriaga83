@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eluzuriaga83
-- I am interested in continuing Data Analyst and the repository 'data_science_bootcamp' has some projects that I did in my last Data Science coding bootcamp
+- I am interested in continuing my work as a Data Analyst, and the repository 'data_science_bootcamp' contains several projects I completed during my most recent Data Science coding bootcamp.
 - 📫 How to reach me elena.luzuriagac@gmail.com | https://www.linkedin.com/in/elenajoneslc/ ...
 
 <!---
