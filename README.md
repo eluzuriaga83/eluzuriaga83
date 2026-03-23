@@ -17,7 +17,7 @@ I build scalable analytics infrastructure, design meaningful KPIs, and partner w
 ### **[data_science_bootcamp](https://github.com/eluzuriaga83/data_science_bootcamp)**
 A collection of capstone projects from my 200+ hour Data Science bootcamp at ESPOL Coding Bootcamp (2024), showcasing end-to-end analytical workflows:
 
-- **Project SRI:** Economic Activity Intelligence for Ecuador—analyzing provincial tax data to identify export leaders, market gaps, and policy impacts
+- **Provincial Economic Analysis - Ecuador Tax Revenue SRI:** Economic Activity Intelligence for Ecuador—analyzing provincial tax data to identify export leaders, market gaps, and policy impacts
 - **Wordcloud - Sentymental Analysis:** A Guayaquil restaurant analyzed social media to understand customer perception and identify service improvement opportunities.
 - Additional machine learning, statistical analysis, and business intelligence projects
 
