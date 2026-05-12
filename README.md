@@ -26,6 +26,7 @@ End-to-end analytics platform to analyze churn, revenue, and customer health for
 
 **Technologies:** Python, dbt, BigQuery, Tableau
 
+### **[Datascience Bootcamp Projects](https://github.com/eluzuriaga83/data_science_bootcamp)**
 - **Provincial Economic Analysis - Ecuador Tax Revenue SRI:** Economic Activity Intelligence for Ecuador—analyzing provincial tax data to identify export leaders, market gaps, and policy impacts
 - **Wordcloud - Sentymental Analysis:** A Guayaquil restaurant analyzed social media to understand customer perception and identify service improvement opportunities.
 - Additional machine learning, statistical analysis, and business intelligence projects
