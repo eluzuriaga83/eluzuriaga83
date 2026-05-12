@@ -14,8 +14,17 @@ I build scalable analytics infrastructure, design meaningful KPIs, and partner w
 
 ## 📊 Featured Projects
 
-### **[data_science_bootcamp](https://github.com/eluzuriaga83/data_science_bootcamp)**
-A collection of capstone projects from my 200+ hour Data Science bootcamp at ESPOL Coding Bootcamp (2024), showcasing end-to-end analytical workflows:
+
+### **[SaaS Analytics Platform](https://github.com/eluzuriaga83/cloudtask-pro-analytics)**
+End-to-end analytics platform to analyze churn, revenue, and customer health for a SaaS company. CloudTask Pro is a hypothetical SaaS company with 600 customers and 4 years of data (2022–2025) and The Board  is concerned about churn. The CFO needs answers.
+
+**KeyInsights:**
+- Business plan drives 43% of total revenue — the highest of any plan
+- Annual billing customers churn 33% less than monthly billing customers
+- Very High Risk customers churn at 75% vs 10% for Medium Risk — a 7x difference
+- Mid-Term churn (3-12 months) is the highest-risk period
+
+**Technologies:** Python, dbt, BigQuery, Tableau
 
 - **Provincial Economic Analysis - Ecuador Tax Revenue SRI:** Economic Activity Intelligence for Ecuador—analyzing provincial tax data to identify export leaders, market gaps, and policy impacts
 - **Wordcloud - Sentymental Analysis:** A Guayaquil restaurant analyzed social media to understand customer perception and identify service improvement opportunities.
