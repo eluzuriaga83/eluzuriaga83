@@ -37,7 +37,7 @@ End-to-end analytics platform to analyze churn, revenue, and customer health for
 
 ---
 
-### **[hagp-corruption](https://github.com/eluzuriaga83/hagp-corruption)**
+### **[Hospital Supply Procurement Analysis](https://github.com/eluzuriaga83/hagp-corruption)**
 An in-depth analysis of hospital supply procurement in Ecuador, combining web scraping, data engineering, and visualization to support transparency in public sector spending.
 
 **Key Insights:**
