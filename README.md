@@ -18,7 +18,7 @@ I build scalable analytics infrastructure, design meaningful KPIs, and partner w
 ### **[SaaS Analytics Platform](https://github.com/eluzuriaga83/cloudtask-pro-analytics)**
 End-to-end analytics platform to analyze churn, revenue, and customer health for a SaaS company. CloudTask Pro is a hypothetical SaaS company with 600 customers and 4 years of data (2022–2025) and The Board  is concerned about churn. The CFO needs answers.
 
-**KeyInsights:**
+**Key Insights:**
 - Business plan drives 43% of total revenue — the highest of any plan
 - Annual billing customers churn 33% less than monthly billing customers
 - Very High Risk customers churn at 75% vs 10% for Medium Risk — a 7x difference
