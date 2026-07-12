@@ -1,22 +1,21 @@
-## 👋 Welcome to My Data Analytics Portfolio
+## 👋 Never trust a number you haven't tested
 
-I'm a **Senior Data Analyst** passionate about transforming raw data into strategic business intelligence. My work spans product analytics, business intelligence, and public sector transparency—combining technical rigor with business acumen to answer questions that drive real-world impact.
+**Senior Data Analyst & Analytics Engineer**. Seven years of QA taught me how data breaks; five years as a C-suite analytics liaison taught me what decisions need.
+I build data systems that are trustworthy by design.
 
 ### 🎯 What I Do
 
-I build scalable analytics infrastructure, design meaningful KPIs, and partner with stakeholders to translate complex data into actionable insights. Whether optimizing product funnels, analyzing revenue drivers, or uncovering spending patterns in public procurement, I focus on the intersection of technical excellence and business value.
+**Currently:** preparing for SnowPro Core (Snowflake Data Engineering Professional,2025)
 
-**Core Skills:** Advanced SQL • Python (Pandas, NumPy, Seaborn) • ETL & Data Pipeline Design • Data Visualization • Product Analytics • Executive Reporting
-
-**Tools & Platforms:** Domo • Snowflake • Power BI • Python • Jupyter Notebooks • Git
+**Stack:** SQL · Python · dbt · Snowflake · BigQuery · Tableau · Power BI · Domo
 
 ---
 
 ## 📊 Featured Projects
 
 
-### **[SaaS Analytics Platform](https://github.com/eluzuriaga83/cloudtask-pro-analytics)**
-End-to-end analytics platform to analyze churn, revenue, and customer health for a SaaS company. CloudTask Pro is a hypothetical SaaS company with 600 customers and 4 years of data (2022–2025) and The Board  is concerned about churn. The CFO needs answers.
+### **[CloudTask Pro — SaaS Churn & Revenue Analytics Platform](https://github.com/eluzuriaga83/cloudtask-pro-analytics)**
+The board is concerned about churn. The CFO needs answers. 
 
 **Key Insights:**
 - Business plan drives 43% of total revenue — the highest of any plan
@@ -24,7 +23,10 @@ End-to-end analytics platform to analyze churn, revenue, and customer health for
 - Very High Risk customers churn at 75% vs 10% for Medium Risk — a 7x difference
 - Mid-Term churn (3-12 months) is the highest-risk period
 
-**Technologies:** Python, dbt, BigQuery, Tableau
+
+**Technologies:** Python ETL, dbt (40+ automated tests), BigQuery,  5 executive Tableau dashboard
+
+→ Live dashboards: [link](https://public.tableau.com/app/profile/elena.j8125/viz/ChurnAnalysis_17792233702670/ExecutiveSummary)
 
 ---
 
